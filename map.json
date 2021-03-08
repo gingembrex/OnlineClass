@@ -21,6 +21,12 @@
          "id":43,
          "name":"Washroom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Washroom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -33,6 +39,12 @@
          "id":44,
          "name":"Kitchen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Kitchen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -45,6 +57,12 @@
          "id":45,
          "name":"Meeting Room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"MeetingRoom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -57,6 +75,12 @@
          "id":46,
          "name":"Music Room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"MusicRoom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -69,6 +93,12 @@
          "id":47,
          "name":"Office",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Office"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
